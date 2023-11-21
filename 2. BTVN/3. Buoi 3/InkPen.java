@@ -1,0 +1,2 @@
+public class InkPen {
+}

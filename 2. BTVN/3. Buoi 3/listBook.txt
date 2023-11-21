@@ -1,0 +1,4 @@
+001|Harry Potter|J.K.Rowling|Tiểu thuyết|26/06/1977
+002|Nàng tiên cá|Hans Chrristian Andersen|Truyện cổ tích|07/04/1837
+003|naruto|tung|dz|03/02/2004
+004|proptit|tung|dtr|09/10/2011
